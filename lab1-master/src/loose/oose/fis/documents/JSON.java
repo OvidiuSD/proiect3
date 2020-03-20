@@ -3,8 +3,8 @@ package loose.oose.fis.documents;
 import java.util.Arrays;
 
 public class JSON extends Document {
-    public JSON(String[] NOU) {
-        super(NOU);
+    public JSON(String[] Modif2) {
+        super(Modif2);
     }
 
     @Override
